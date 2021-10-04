@@ -12,3 +12,12 @@ Besides, you can test Killing vector, solve Einstein equations...
 
 Just download all, and check the `GRnotebook.nb` notebook using `Mathematica`. An example in it is a simple Schwarzschild condition. You can edit it as you want.
 
+## Online Priview
+
+You can see the notebook online:
+
+https://www.wolframcloud.com/obj/68919f07-3ef6-4bc0-84ce-e9bb670424aa
+
+Or if you are logged-in user:
+
+https://www.wolframcloud.com/env/68919f07-3ef6-4bc0-84ce-e9bb670424aa
